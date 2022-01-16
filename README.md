@@ -1,1 +1,1 @@
-# JAVA cô Vân Anh + DSAA code ptit
+# JAVA cô Vân Anh + DSAA code ptit(src trong folder FirstProject)
